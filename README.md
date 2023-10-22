@@ -17,12 +17,13 @@ Please note that due to the absence of metadata for this dataset, my understandi
 - yellowbrick 1.5
 
 ## Table of Contents
-1. [Data Exploration](airline_customers_segmentation.ipynb#explor)
-2. [Data Preparation](airline_customers_segmentation.ipynb#preparation)
-3. [RFM Analysis](airline_customers_segmentation.ipynb#rfm)
-4. [EDA](airline_customers_segmentation.ipynb#eda)
-5. [Data Preprocessing](airline_customers_segmentation.ipynb#preprocess)
-6. [Clustering](airline_customers_segmentation.ipynb#cluster)
+1. [Background](airline_customers_segmentation.ipynb#background)
+2. [Data Exploration](airline_customers_segmentation.ipynb#explor)
+3. [Data Preparation](airline_customers_segmentation.ipynb#preparation)
+4. [RFM Analysis](airline_customers_segmentation.ipynb#rfm)
+5. [EDA](airline_customers_segmentation.ipynb#eda)
+6. [Data Preprocessing](airline_customers_segmentation.ipynb#preprocess)
+7. [Clustering](airline_customers_segmentation.ipynb#cluster)
 
 ---
 
