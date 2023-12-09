@@ -9,21 +9,11 @@ This dataset was obtained from Kaggle with the following link: [Customer Segment
 Please note that due to the absence of metadata for this dataset, my understanding of the variable descriptions is limited and relies solely on personal assumptions.
 
 ## Package and Libraries
-- pandas 1.2.1
-- matplotlib 3.7.0
-- matplotlib-inline 0.1.6
-- seaborn 0.12.2
-- scikit-learn 1.2.1
-- yellowbrick 1.5
-
-## Table of Contents
-1. [Background](airline_customers_segmentation.ipynb#background)
-2. [Data Exploration](airline_customers_segmentation.ipynb#explor)
-3. [Data Preparation](airline_customers_segmentation.ipynb#preparation)
-4. [RFM Analysis](airline_customers_segmentation.ipynb#rfm)
-5. [EDA](airline_customers_segmentation.ipynb#eda)
-6. [Data Preprocessing](airline_customers_segmentation.ipynb#preprocess)
-7. [Clustering](airline_customers_segmentation.ipynb#cluster)
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+- yellowbrick
 
 ---
 
