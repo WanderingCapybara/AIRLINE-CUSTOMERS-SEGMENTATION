@@ -9,6 +9,16 @@ Please note that due to the absence of metadata for this dataset, my understandi
 
 ## Objective
 
+The primary goal of this project is to employ RFM (Recency, Frequency, Monetary) analysis for customer segmentation. The specific objectives include:
+
+1. **Identifying Clustering Criteria:** Utilizing RFM analysis to define clustering criteria based on the recency of customer activity, the frequency of flights taken, and the monetary value represented by fares spent.
+
+2. **Evaluation with Silhouette Score:** Assessing the quality of the clustering results using the silhouette score as an evaluation metric. The silhouette score provides a measure of how well-defined the clusters are within the dataset.
+
+3. **Tools and Libraries:** Implementing the analysis using Jupyter Notebook and various Python libraries, including pandas, matplotlib, seaborn, scikit-learn, and yellowbrick.
+
+4. **Providing Insights:** Interpreting the clustering results and providing meaningful insights into the identified customer segments, including the characteristics and behaviors associated with each segment.
+
 ## Clustering Criteria
 RFM (Recency, Frequency, Monetary) analysis is used to determine clustering criteria.
 The following variables represent RFM:
